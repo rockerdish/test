@@ -1,6 +1,6 @@
 package test;
 
-import static org.junit.Test;
+
 import static org.junit.Assert.*;
 
 /**
